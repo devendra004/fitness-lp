@@ -1,0 +1,76 @@
+body{margin:0;padding:0;font-family:'Raleway', sans-serif;}
+header{background-color:rgba(0,0,0,0.5);position:absolute;z-index:999;width: 100%;}
+.head{margin:0px;}
+.logo-img{padding-top:10px;}
+.contact{color:#ff0;font-size:14px;padding-top:30px;}
+.menu_a{color:#FF0;text-decoration:none !important;}
+.menu_a:hover{color: #ccc;}
+.font-icon{background-color:#ff0;border:1px solid #ff0;border-radius:20px;color:#000;height:30px;padding:3px 6px;width:30px;}
+.font-icon:hover{border-color: #fff;background-color:#fff;}
+#banner{background-image:url(../images/background-img.jpg);background-size:cover;min-height:300px;background-repeat:no-repeat;padding:40px 0;background-attachment:fixed;}
+.heading-h1{color:#ff0;font-size:52px;font-weight:bold;margin-top:200px;}
+#banner h2 span::before{border-bottom:1px solid #FFF;content:"";height:5px;left:110px;position:absolute;top:14px;width:20%;}
+#banner h2 span::after{border-bottom:1px solid #FFF;content:"";height:5px;right:110px;position:absolute;top:14px;width:20%;}
+.heading-2{color:#FFF;font-size:32px;font-weight:bold;line-height:35px;padding-bottom:60px;position:relative;}
+#banner h3{color:#FFF;text-transform:uppercase;font-size:28px;text-align:center;letter-spacing:1px;}
+#banner h4{color:#FFF;font-size:20px;text-align:center;}
+.novice{margin-top:100px;}
+.banner-h1{color:#ff0;font-size:25px;line-height:32px;text-transform:uppercase;font-weight:bold;}
+.heading-h3{color:#fff;margin-bottom:35px;}
+.from-group{color:#fff;font-size:16px;margin-bottom:25px;font-style:italic;}
+.btn-yellow{background-color:#ff0 !important;font-size:18px !important;font-weight:bold !important;height:50px;width:160px;color:#000 !important;text-transform:uppercase;}
+.contact-form{background-color:rgba(255,255,255,0.26);padding:20px;}
+/*#form-contant{border:1px solid #ccc;border-radius:0px;height:45px !important;width:100% !important;}*/
+.form-center{padding:0 35px;}
+.contant_p{color:#fff;font-size:18px;line-height:25px;}
+.medium-contant{background-color:#ff0;min-height:100px;padding:50px 0;}
+.medium-contant-h1{font-size:40px;text-align:center;font-weight:bold;}
+.wht{color:#FFF;font-size:18px;}
+.wht-p{font-size:30px;}
+#comment{height:120px}
+#testmoney{background:#fff;min-height:100px;padding:50px 0;background-image:url(../images/second-bg.jpg);background-size:cover;background-repeat:no-repeat;min-height:300px;background-attachment:fixed;}
+.db-bk-color-one{background-color:#f55039;}
+.db-bk-color-two{background-color:#46A6F7;}
+.db-bk-color-three{background-color:#47887E;}
+.db-bk-color-six{background-color:#F59B24;}
+.db-button-color-square{color:#fff;background-color:rgba(0, 0, 0, 0.50);border:none;border-radius:0px;}
+.db-button-color-square:hover{color:#fff;background-color:rgba(0, 0, 0, 0.50);border:none;}
+.db-pricing-eleven{margin-bottom:30px;margin-top:50px;text-align:center;box-shadow:0 0 5px rgba(0, 0, 0, .5);color:#fff;line-height:30px;}
+.db-pricing-eleven ul{list-style:none;margin:0;text-align:center;padding-left:0px;}
+.db-pricing-eleven ul li{padding-top:20px;padding-bottom:20px;cursor:pointer;}
+.db-pricing-eleven ul li i{margin-right:5px;}
+.db-pricing-eleven .price{background-color:rgba(0, 0, 0, 0.5);padding:40px 20px 20px 20px;font-size:3.750em;font-weight:900;color:#FFFFFF;height: 157px;}
+.db-pricing-eleven .price small{color:#b8b8b8;display:block;font-size:12px;font-weight:300;line-height:23px;margin-top:21px;}
+.db-pricing-eleven .type{background-color:#52E89E;padding:50px 20px;font-weight:900;text-transform:uppercase;font-size:30px;}
+.db-pricing-eleven .pricing-footer{padding:20px;}
+.db-attached > .col-lg-4,
+.db-attached > .col-lg-3,
+.db-attached > .col-md-4,
+.db-attached > .col-md-3,
+.db-attached > .col-sm-4,
+.db-attached > .col-sm-3{padding-left:0;padding-right:0;}
+#quote-carousel{padding:0 5px 22px;margin-top:70px;color:#FFF;}
+#quote-carousel .carousel-control{background:none;color:#CACACA;font-size:2.3em;text-shadow:none;margin-top:30px;}
+.carousel-control {display: flex;align-items: center;justify-content: center;}
+.carousel-inner.text-center {display: flex;align-items: center;justify-content: center;}
+/*#quote-carousel .carousel-control.left{left:-60px;}
+#quote-carousel .carousel-control.right{right:-60px;}*/
+#quote-carousel .carousel-indicators{right:50%;top:auto;bottom:0px;margin-right:-19px;}
+#quote-carousel .carousel-indicators li{width:50px;height:50px;margin:5px;cursor:pointer;border:4px solid #CCC;border-radius:50px;overflow:hidden;transition:all 0.4s;}
+#quote-carousel .carousel-indicators .active{background:#333333;width:128px;height:128px;border-radius:100px;border-color:#f33;opacity:1;overflow:hidden;}
+.carousel-inner{min-height:240px;}
+.item blockquote{border-left:none;margin:0;}
+.item blockquote p:before{content:"\f10d";font-family:'Fontawesome';float:left;margin-right:10px;}
+#about{background-image:url(../images/body%20pose%20wall.jpg);background-position:0px 3px;background-color:#000;min-height:550px;padding:100px 0;background-repeat: no-repeat;}
+#about h1{color:#FFF;text-transform:uppercase;padding-top:50px;}
+#fitness{min-height:450px;background-image:url(../images/wallpaper%202.jpg);background-attachment:fixed;padding:100px 0;background-size:cover;}
+footer{background:#000;padding:100px 0;color:#FFF;}
+/*=============================================New CSS===============================*/
+.box{display: flex;align-items: center;justify-content: center;}
+.price{display: flex;align-items: center;justify-content: center;flex-direction: column;}
+.price h1{color: #fff;font-size: 3.75em;font-weight: bold;text-align: center;}
+.price h1::before {content: '₤';position: relative;top: -0.8em;font-size: 0.6em;font-weight: normal;}
+.price small{color: #b8b8b8;text-align: center;}
+.red{background-color: #7b281d;width: 200px;height: 200px;display: flex;align-items: center;justify-content: center;padding: 15px;margin: 15px;}
+.blue{background-color: #23547c;width: 200px;height: 200px;display: flex;align-items: center;justify-content: center;padding: 15px;margin: 15px;}
+.green{background-color: #24453f;width: 200px;height: 200px;display: flex;align-items: center;justify-content: center;padding: 15px;margin: 15px;}

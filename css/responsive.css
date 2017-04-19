@@ -1,0 +1,37 @@
+@media only screen and (min-width:1200px){.container{width:90% !important;}
+}
+@media only screen and (max-width:480px){img{width:145px !important;}
+.contact{padding:18px 0 !important;}
+.heading-h1{font-size:38px !important;margin-top:140px !important;}
+.heading-2{font-size:25px !important;}
+#banner{background-position:center center !important;}
+#banner h2 span::before{border-bottom:none !important;}
+#banner h2 span::after{border-bottom:none !important;}
+.novice{margin-top:0 !important;}
+#banner h3{font-size:34px !important;}
+.wht-p{font-size:19px !important;margin:0;padding-bottom:40px !important;}
+.banner-h1{font-size:18px !important;}
+.medium-contant-h1{font-size:31px !important;}
+#testmoney{background-position:center !important;}
+#about .container{background-color:rgba(0,0,0,0.7) !important;}
+#about{background-position:center center !important;background-size:cover !important;}
+#fitness{background-position:center center !important;}
+#about h1{text-align:center !important;padding-top:0 !important;}
+.medium-contant-h1{font-size:25px !important;}
+#footer{padding:30px 0 !important;}
+.form-center{padding:0 0px !important;}
+.carousel-control{display: none !important;}
+.box{flex-direction: column;}
+}
+@media only screen and (min-width:481px) and (max-width:1024px){#banner h2 span::after{border-bottom:none !important;}
+#banner h2 span::before{border-bottom:none !important;}
+.novice{margin-top:0 !important;}
+*::before, *::after{box-sizing:border-box;}
+*::before, *::after{box-sizing:border-box;}
+#fitness{background-attachment:inherit !important;}
+}
+@media only screen and (min-width:481px) and (max-width:767px){.box{flex-direction: column;}
+#about{background-position:35px 3px !important;background-size:cover !important;}}
+@media only screen and (min-width:768px) and (max-width:991px){#about {background-position: -110px 3px !important;}}
+@media only screen and (min-width:1366px){#about {background-position: 180px 3px !important;}}
+@media only screen and (min-width:2200px){#about {background-position: right 3px !important;}}
